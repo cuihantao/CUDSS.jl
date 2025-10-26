@@ -12,15 +12,7 @@ LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
 
 [compat]
-CEnum = "0.5"
 CUDA = "5"
-CUDSS_jll = "0.7.1"
-GPUToolbox = "0.3, 1"
-LinearAlgebra = "1.10"
-Random = "1.10"
-SparseArrays = "1.10"
-Test = "1.10"
-julia = "1.10"
 
 [extras]
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
